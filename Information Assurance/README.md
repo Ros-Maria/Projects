@@ -1,0 +1,7 @@
+Open Google Colab
+Upload the notebook Information_Assurance_Project Final.ipynb
+Install required Python libraries
+Upload the dataset file
+Execute each code cell sequentially from top to bottom.
+By default, the code may be set to model 4-bit responses.
+To test multi-bit ( 1-bit, 2-bit, 3-bit) response modeling, change the variable  "responsebits"  and "test_classes".
